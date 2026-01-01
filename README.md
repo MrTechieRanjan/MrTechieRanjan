@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Ayush Ranjan
+👋 Hey there, I’m Ayush Ranjan
 
 🚀 **AI / ML Engineer (Aspirant) | AI Researcher**  
 🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • ☁️ Cloud & APIs
@@ -7,14 +7,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at Galgotias University  
-- 🧠 Strong interest in **Artificial Intelligence, Machine Learning, and Computer Vision**  
-- 👁️ Built **real-time attention & engagement detection systems** using YOLOv3  
-- 📄 **Research paper published** and **conference work completed** in AI & Computer Vision  
-- 🧪 Hands-on experience with **ML models, Deep Learning concepts, and experimentation**  
-- 🐧 Comfortable working with **Linux environments, APIs, and development tools**  
-- 🌱 Actively learning and preparing for **AI / ML Engineer roles**  
-- 🎯 Passionate about building **intelligent systems with real-world impact**
+- 🧠 Passionate about **Artificial Intelligence & Machine Learning**
+- 👁️ Built **real-time attention & engagement detection systems** using YOLOv3
+- 📄 **Research paper published** and **conference work completed** in AI & Computer Vision
+- 🧪 Hands-on experience with **Machine Learning, Deep Learning, and model experimentation**
+- 🐧 Comfortable working with **Linux environments, APIs, and development tools**
+- 🔍 Interested in building **intelligent, scalable, real-world AI systems**
+- 🌱 Continuously learning and improving in the **AI / ML domain**
+- 🎯 Actively preparing for **AI / ML Engineer roles**
 
 ---
 
@@ -56,16 +56,16 @@
 ## 🚀 Featured Projects
 
 - 👁️ **Real-Time Attention & Engagement Detection**  
-  Computer Vision system using YOLOv3 to monitor student attentiveness during online classes  
+  Computer Vision system using YOLOv3 to monitor learner attentiveness  
 
 - 🧠 **Human Emotion Detection using Generative AI**  
-  Research-based project combining CNN, GANs, and classical ML algorithms  
+  Research-based project using CNN, GANs & classical ML models  
 
 - 📧 **Spam Email Detection System**  
-  NLP-based machine learning model for spam email classification  
+  NLP-based machine learning model for spam classification  
 
 - 🌐 **Overhaul Locus Website**  
-  Service-platform website built using HTML, CSS, and JavaScript  
+  Service-platform website built using HTML, CSS & JavaScript  
 
 👉 *Check pinned repositories below ⬇️*
 
@@ -85,4 +85,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
 [![Email](https://img.shields.io/badge/Email-ayushranjan2425@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushranjan2425@gmail.com)
+
 ⭐ *“Building intelligent systems with research, code, and curiosity.”*
