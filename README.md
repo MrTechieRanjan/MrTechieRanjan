@@ -1,6 +1,8 @@
-## 👋 Hi, I’m Ayush Ranjan
+##👋 Hey there, I’m Ayush Ranjan
 
-Cloud Operations Engineer with a strong interest in Artificial Intelligence and Machine Learning.
+🚀 **AI / ML Engineer (Aspirant) | AI Researcher | Cloud Operations Engineer**  
+🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • ☁️ Cloud & APIs
+
 
 ---
 
