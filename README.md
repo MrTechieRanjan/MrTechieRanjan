@@ -55,17 +55,14 @@
 
 ## 🚀 Featured Projects
 
-- 👁️ **Real-Time Attention & Engagement Detection**  
-  Computer Vision system using YOLOv3 to monitor learner attentiveness  
-
-- 🧠 **Human Emotion Detection using Generative AI**  
-  Research-based project using CNN, GANs & classical ML models  
-
-- 📧 **Spam Email Detection System**  
-  NLP-based machine learning model for spam classification  
-
-- 🌐 **Overhaul Locus Website**  
-  Service-platform website built using HTML, CSS & JavaScript  
+- 👁️ **Real-Time Attention & Engagement Detection - Computer Vision system using YOLOv3 to monitor learner attentiveness**  
+    
+- 🧠 **Human Emotion Detection using Generative AI - Research-based project using CNN, GANs & classical ML models**  
+    
+- 📧 **Spam Email Detection System - NLP-based machine learning model for spam classification**  
+    
+- 🌐 **Overhaul Locus Website - Service-platform website built using HTML, CSS & JavaScript**  
+    
 
 👉 *Check pinned repositories below ⬇️*
 
