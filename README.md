@@ -1,4 +1,4 @@
-👋 Hey there, I’m Ayush Ranjan
+# 👋 Hey there, I’m Ayush Ranjan
 
 🚀 **AI / ML Engineer (Aspirant) | AI Researcher**  
 🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • ☁️ Cloud & APIs
@@ -82,8 +82,7 @@
 ---
 
 ## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
-[![Email](https://img.shields.io/badge/Email-ayushranjan2425@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushranjan2425@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil%20Khare-blue?logo=linkedin)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
+[![Email](https://img.shields.io/badge/Email-rushilkhare23@gmail.com-red?logo=gmail)](mailto:ayushranjan2425@gmail.com)
 
 ⭐ *“Building intelligent systems with research, code, and curiosity.”*
