@@ -1,20 +1,20 @@
 ## 👋 Hey there, I’m Ayush Ranjan
 
-🚀 **AI / ML Engineer (Aspirant) | AI Researcher | Cloud Operations Engineer**  
+🚀 **AI / ML Engineer (Aspirant) | AI Researcher**  
 🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • ☁️ Cloud & APIs
 
 ---
 
 ## 👨‍💻 About Me
 
-- Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at Galgotias University  
-- Currently working as a **Cloud Operations Engineer at Acefone**  
-- Hands-on experience in **Machine Learning and Computer Vision projects**  
-- Developed **real-time attention and engagement detection systems** using YOLOv3  
-- **Research paper published** and **conference work completed** in AI & Computer Vision  
-- Experienced with **Linux environments, REST & SOAP APIs, monitoring, and deployments**  
-- Strong interest in building **practical, scalable AI systems**  
-- Actively preparing for **AI / ML Engineer roles**
+- 🎓 Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at Galgotias University  
+- 🧠 Strong interest in **Artificial Intelligence, Machine Learning, and Computer Vision**  
+- 👁️ Built **real-time attention & engagement detection systems** using YOLOv3  
+- 📄 **Research paper published** and **conference work completed** in AI & Computer Vision  
+- 🧪 Hands-on experience with **ML models, Deep Learning concepts, and experimentation**  
+- 🐧 Comfortable working with **Linux environments, APIs, and development tools**  
+- 🌱 Actively learning and preparing for **AI / ML Engineer roles**  
+- 🎯 Passionate about building **intelligent systems with real-world impact**
 
 ---
 
@@ -34,6 +34,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 ![GANs](https://img.shields.io/badge/GANs-6A0DAD?style=for-the-badge)
+
+---
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -74,21 +81,8 @@
 
 ---
 
-## 💼 Experience
-
-**Cloud Operations Engineer — Acefone**  
-📍 Gurugram | Aug 2025 – Present  
-
-- End-to-end operations of **TATA Smartflo Cloud Communication Solutions**  
-- API testing using **Postman**, **Linux shell**, REST & SOAP APIs  
-- Uptime monitoring, deployments, onboarding & escalation handling  
-- Worked closely with Product, Development, NOC & Support teams  
-
----
-
 ## 🤝 Let’s Connect
 
-- 💼 **LinkedIn:** Ayush Ranjan  
-- 📧 **Email:** ayushranjan2425@gmail.com  
-
-⭐ *“Building intelligent systems with research, code, and real-world impact.”*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
+[![Email](https://img.shields.io/badge/Email-ayushranjan2425@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushranjan2425@gmail.com)
+⭐ *“Building intelligent systems with research, code, and curiosity.”*
