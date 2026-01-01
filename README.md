@@ -79,7 +79,8 @@
 ---
 
 ## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil%20Khare-blue?logo=linkedin)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
-[![Email](https://img.shields.io/badge/Email-rushilkhare23@gmail.com-red?logo=gmail)](mailto:ayushranjan2425@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Ranjan-blue?logo=linkedin)](https://www.linkedin.com/in/ayush-ranjan-6a9820216/)
+[![Email](https://img.shields.io/badge/Email-ayushranjan2425@gmail.com-red?logo=gmail)](mailto:ayushranjan2425@gmail.com)
+
 
 ⭐ *“Building intelligent systems with research, code, and curiosity.”*
