@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ayush Ranjan
 
-🚀 **AI / ML Engineer | AI Researcher |Cloud Operation Engineer**  
+🚀 **AI / ML Engineer | AI Researcher | Cloud Operation Engineer**  
 🐍 Python • 🤖 Machine Learning • 👁️ Computer Vision • ☁️ Cloud & APIs
 
 ---
