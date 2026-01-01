@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Ayush Ranjan
 
-<!--
-**MrTechieRanjan/MrTechieRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+🤖 AI/ML & Data Science Enthusiast  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Passionate about **AI, Machine Learning, and Data-driven systems**
+- Experience with **emotion detection & attention monitoring**
+- Focused on building **practical, real-world projects**
+- Strong belief: *learning by building*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript
+- **ML & Data:** NumPy, Pandas, Scikit-learn, OpenCV
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, Jupyter, VS Code
+
+### 📌 Current Focus
+- Improving ML fundamentals
+- Building end-to-end ML projects
+- Strengthening GitHub & portfolio
+
+---
